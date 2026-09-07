@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# WowAddOnStudio Solution File, Format Version 11.00
+VisualStudioVersion = 17.10.35827.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E6E1D386-69D8-4755-9E61-0950293915FC}") = "KoG D20", "KoG D20\KoG D20.wowproj", "{7567FDAF-0C16-4A25-ADB0-822D57A66C99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7567FDAF-0C16-4A25-ADB0-822D57A66C99}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{7567FDAF-0C16-4A25-ADB0-822D57A66C99}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9995D50E-DF00-451E-A48E-83F8FFA0FE14}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+## Title: KoG D20
+## Version: 1.0.8a
+## Author: vaminion
+## Interface: 120100
+## SavedVariablesPerCharacter: v_kog_character_sheet
+## OptionalDeps: Blizzard_UIDropDownMenu
+
+# Rules can be found here: https://docs.google.com/document/d/1vFheg4p83FSofJW77GDD8HE_3vsJg0UFbVF0509ES24/edit?tab=t.0
+# Load utility functions first
+kog_d20_function_library.lua
+
+# Baseline variables. Arrays, capturing player name, etc.
+kog_d20_variables.lua
+
+# Event handling and Die Roller
+kog_d20_events_and_roller.lua
+
+# Roller Frame
+kog_d20_modifier_frame.lua
+
+# Character Sheet
+kog_d20_character_sheet.lua
+
+# Updater
